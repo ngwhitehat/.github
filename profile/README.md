@@ -1,9 +1,9 @@
 # Whitehat.NG
 ### Pushing for Responsible Disclosure In Nigeria + Nigeria Cyberspace - ISAC + peopleCERT
-diff``
+diff ```
 + You can use our forms here to make your first report.
 Thank you for keeping Nigeria's Cyberspace a safer place.
-``
+```
 
 # [Report](https://docs.google.com/forms/d/e/1FAIpQLSdKQUuPPylNiyhjziqfk6boNJx-efO3ukARqkrxgEC_h2MwMA/viewform) NOW - ` Bugs and Vulns`
 
