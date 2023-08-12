@@ -11,3 +11,8 @@ Thank you for keeping Nigeria's Cyberspace a safer place*.
 
 
 **see our [HoF](https://github.com/ngwhitehat/Bugs-and-Vulns-Reporting/blob/main/hof.md)🥇🥈🥉**
+
+
+Solarized dark             |  Solarized Ocean           |  Solarized Ocean
+:-------------------------:|:-------------------------: |:-------------------------:
+![]([https://...Dark.png](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/ngcert-small.png)https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/ngcert-small.png)  |  ![](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/nitda-cerrt.png) | ![]([https://...Ocean.png](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/CSIRT-small.png)https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/CSIRT-small.png)
