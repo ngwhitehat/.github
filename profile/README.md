@@ -12,7 +12,10 @@ Thank you for keeping Nigeria's Cyberspace a safer place*.
 
 **see our [HoF](https://github.com/ngwhitehat/Bugs-and-Vulns-Reporting/blob/main/hof.md)🥇🥈🥉**
 
-# ``Partnering``
+
+
+
+### ``Partnering``
 
 | ngCERT | CERT.ng | NCC-CSIRT
 :-------------------------:|:-------------------------: |:-------------------------:
