@@ -17,6 +17,6 @@ Thank you for keeping Nigeria's Cyberspace a safer place*.
 
 ### ``Partnering``
 
-| [ngCERT](https://cert.gov.ng/) | CERRT.ng | NCC-CSIRT
+| [ngCERT](https://cert.gov.ng/) | [CERRT.ng](https://cerrt.ng/) | NCC-CSIRT
 :-------------------------:|:-------------------------: |:-------------------------:
 ![](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/ngcert-small.png)  |  ![](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/nitda-cerrt.png) | ![](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/CSIRT-small.png)
